@@ -21,4 +21,3 @@
 <h1>License</h1>
 
 This project is licensed under the MIT License - see the [LICENSE](https://opensource.org/licenses/MIT) page for details.
-.
