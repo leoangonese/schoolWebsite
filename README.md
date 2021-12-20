@@ -8,9 +8,9 @@
   </a>
 </p>
 
-<img src="a1.png">
-<img src="a2.png">
-<img src="a3.png">
+<img src="images/a1.png">
+<img src="images/a2.png">
+<img src="images/a3.png">
 
 ## Built with
 [//]: # (Add the features of your project here:)
